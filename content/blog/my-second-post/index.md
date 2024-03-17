@@ -1,13 +1,8 @@
 ---
-title: My Second Post!
-date: 2015-05-06T23:46:37.121Z
+title: About Me
+date: 2024-03-17T08:32:49+01:00
+description: Que savoir sur Jonathan Kashongwe
 ---
+Dévéloppeur informatique depuis maintenant 6 ans. j'ai eu travailler avec des technologies comme Java, PHP, Docker, AWS , Python. Et depuis deux ans maintenant je m'intéresse énormément à l'intelligence artificielle et surtout ses applications dans le quotidien. Comment l'IA peut avoir un impact sur la réalité des entreprises africaines et congolaise.
 
-Wow! I love blogging so much already.
-
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
-
-Yeah, I didn't either.
+Je suis un passioné de technologies et des sciences. Touche à tout et constamment à la recherche de nouvelles tech et de nouveau défi!
